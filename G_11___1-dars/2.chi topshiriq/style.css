@@ -1,0 +1,53 @@
+body {
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  background-color: rgb(109, 78, 78);
+}
+.salom {
+  height: 35px;
+  width: auto;
+  background-color: rgb(73, 44, 44);
+  text-align: center;
+  position: sticky;
+  top: 0;
+}
+.home {
+  position: relative;
+  right: 140px;
+  top: 8px;
+}
+html {
+  scroll-behavior: smooth;
+}
+.home:hover {
+  color: brown;
+}
+.about {
+  position: relative;
+  top: 8px;
+  right: 90px;
+}
+.about:hover {
+  color: brown;
+}
+.prodekt {
+  position: relative;
+  top: 8px;
+  right: 40px;
+}
+.prodekt:hover {
+  color: brown;
+}
+.contact {
+  position: relative;
+  top: 8px;
+  right: 10px;
+  color: rgb(73, 50, 155);
+}
+.contact:hover {
+  color: brown;
+}
+p {
+  padding: 0 50px;
+}

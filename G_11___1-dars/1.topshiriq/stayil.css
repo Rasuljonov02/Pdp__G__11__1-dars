@@ -1,0 +1,94 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-image: url(./img/1683637385172.gif);
+}
+
+.aa {
+  height: 250px;
+  position: relative;
+  left: 60%;
+  top: 27px;
+  border-radius: 20px;
+}
+
+.aaa {
+  position: relative;
+  left: 43%;
+  top: 75px;
+  font-size: 20px;
+
+  padding: 5px 30px;
+  background-color: rgba(182, 178, 178, 0.678);
+  border-radius: 10px;
+}
+.aaa:hover {
+  color: rgb(168, 22, 22);
+  background-color: aqua;
+}
+.bb {
+  height: 250px;
+  position: relative;
+  bottom: 230px;
+  left: 16%;
+  border-radius: 20px;
+}
+.bbb {
+  position: relative;
+  bottom: 190px;
+  padding: 5px 30px;
+  background-color: rgb(170, 160, 160);
+  color: rgb(49, 58, 187);
+  border-radius: 10px;
+  right: 20px;
+  font-size: 20px;
+}
+.bbb:hover {
+  color: rgb(168, 22, 22);
+  background-color: aqua;
+}
+
+.cc {
+  height: 250px;
+  position: relative;
+  bottom: 150px;
+  left: 215px;
+  border-radius: 20px;
+  width: 340px;
+}
+.ccc {
+  position: relative;
+  bottom: 100px;
+  padding: 5px 30px;
+  background-color: rgb(121, 118, 118);
+  color: rgb(49, 58, 187);
+  border-radius: 10px;
+  right: 20px;
+  font-size: 20px;
+}
+.ccc:hover {
+  color: rgb(168, 22, 22);
+  background-color: aqua;
+}
+.qq {
+  height: 250px;
+  width: 350px;
+  position: relative;
+  bottom: 150px;
+  left: 335px;
+  border-radius: 20px;
+}
+.qqq {
+  position: relative;
+  bottom: 100px;
+  padding: 5px 30px;
+  background-color: rgb(119, 114, 114);
+  color: rgb(49, 58, 187);
+  border-radius: 10px;
+  left: 88px;
+  font-size: 20px;
+}
+.qqq:hover {
+  color: rgb(168, 22, 22);
+  background-color: aqua;
+}
